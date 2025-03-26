@@ -1,0 +1,128 @@
+---
+title: 2025 Q1 PidyTuesday OKR Dashboard 
+format: dashboard
+---
+
+
+## Row {height=190px .px-4}
+
+### Column {width=22% .pe-5}
+```{python}
+#| content: valuebox
+#| title: "PydyTuesday: 200 Python user participants"
+dict(
+  value=13,
+  color= "#FF9999"
+)
+```
+
+### Column {width=60%}
+
+<b> We came up significantly short of the target user goal but the work done in Q1 has set a solid foundation to build upon via a "Nurture" KR in Q2. Here are some of Q1 accomplishments from this KR project that should enable more Python user growth in future quarters: </b>
+
+<span style="line-height: .9;">
+
+PydyTuesday GitHub Repo created & linked with official TydyTuesday Repo.
+
+PydyTuesday YouTube playlist established with 6 initial how-to video tutorials published.
+
+Assumed ownership of PydyTuesday Package- A Python port of the TidyTuesday Downloader (~500 package downloads in last month).
+
+? # of impressions generated from our LinkedIn Social Posts.
+</span>
+
+## Row {height=190px .px-4}
+
+### Column {width=22% .pe-5}
+```{python}
+#| content: valuebox
+#| title: "PydyTuesday Support Videos"
+dict(
+  value="YouTube Playlist of 6 initial how-to resource videos",
+  color="#99CC99"
+)
+```
+
+### Column {width=60%}
+<b>Feature scope for "Make support videos for recurring Tidy Tuesday-like Python event".  Delivered on scope of Feature. </b>
+
+<span style="line-height: .9;">
+
+<a href="https://www.youtube.com/playlist?list=PL9HYL-VRX0oSDQjicFMLIIdcLv5NuvDp9" target="_blank" style="color: inherit; text-decoration: none;"><i>Initial set of 6 how-to Python resource videos delivered & uploaded to running YouTube playlist.</i></a>
+
+>5,500 views across videos w/in the playlist.
+
+## Row {height=160px .px-4}
+
+### Column {width=20% .pe-5}
+```{python}
+#| content: valuebox
+#| title: "PydyTuesday GitHub Repo"
+dict(
+  value="python-tidytuesday",
+  color="#FFEB99"
+)
+```
+
+### Column {width=55%}
+<b> Feature scope for "Build online home for recurring Tidy Tuesday-like Python event". Partially delivered on scope of Feature. </b>
+
+<a href="https://github.com/posit-dev/python-tidytuesday" target="_blank" style="color: inherit; text-decoration: none;"><i>PydyTuesday GitHub repository established</i></a> & linked in partnership with the original TidyTuesday GitHub repository in partnership with the DSLC.
+
+As the KR team chose to partner with the DSLC to tack onto the existing TydyTuesday cycle, no new datasets/prompts have been added to the PydyTuesday repo.
+
+## Row {height=160px .px-4}
+
+### Column {width=20% .pe-5}
+```{python}
+#| content: valuebox
+#| title: "PydyTuesday: Raise Awareness"
+dict(
+  value="Complete",
+  color="#99CC99"
+)
+```
+
+### Column {width=55%}
+<b> Feature scope for "Raise awareness of the recurring Tidy Tuesday-like Python event with potential participants". Delivered on scope of Feature. </b>
+
+6 social posts published via Posit's LinkedIn page, generating ? # of impressions.
+
+Sponsored short-form video published by Python Influencer.
+
+## Row {height=160px .px-4}
+
+### Column {width=20% .pe-5}
+```{python}
+#| content: valuebox
+#| title: "PydyTuesday Event Cycles"
+dict(
+  value="6 & Counting",
+  color="#99CC99"
+)
+```
+
+### Column {width=55%}
+<b> Feature scope for "Host three two week cycles of recurring Tidy Tuesday-like Python event". Exceeded scope of Feature. </b>
+
+In order to maintain a strong relation between PydyTuesday & the original PydyTuesday community event cycles, the KR execution team decided to roll out a weekly Python "challenge" project along with each weeks TydyTuesday dataset & prompt.  
+
+## Row {height=160px .px-4}
+
+### Column {width=20% .pe-5}
+```{python}
+#| content: valuebox
+#| title: "Negotiate partnership with DSLC"
+dict(
+  value="Partnership Established",
+  color="#99CC99"
+)
+```
+
+### Column {width=55%}
+<b> Feature scope for "Negotiate partnership with DSLC". Delivered on scope of Feature.</b>
+
+Outreach attempts to Jon Harmon & the DSLC were successful- The DSLC welcomed PydyTuesday as a way to expand TidyTuesday to serve the Python user community, as well as to have PydyTuesday be an official part of TidyTuesday.
+
+Jon & the DSLC has requested Posit's support in finding and curating datasets in the future as apart of our continued partnership.
+
