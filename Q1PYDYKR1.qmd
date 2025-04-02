@@ -37,7 +37,7 @@ dict(
 #| content: valuebox
 #| title: "PydyTuesday LinkedIn Social Posts"
 dict(
-  value="7 Teaser + Weekly LinkedIn Social Promotion Posts",
+  value="7 Weekly Posts",
   color="#99CC99"
 )
 ```
@@ -45,9 +45,9 @@ dict(
 ### Column {width=60%}
 <b> Delivered on Feature scope for "Raise awareness of the recurring Tidy Tuesday-like Python event with potential participants". </b>
 
-Seven social posts published via Posit's LinkedIn page, generating 128,039 total impressions.
+- Seven social posts published via Posit's LinkedIn page, generating 128,039 total impressions.
 
-Sponsored short-form video published by Python Influencer, generating 15.4K views across Instagram & TikTok.
+- Sponsored short-form video published by Python Influencer, generating 15.4K views across Instagram & TikTok.
 
 ## Row {height=160px .px-4}
 
@@ -56,7 +56,7 @@ Sponsored short-form video published by Python Influencer, generating 15.4K view
 #| content: valuebox
 #| title: "python-tidytuesday GitHub Repo"
 dict(
-  value="28 stars for Repo",
+  value="28 Repo Stars",
   color="#FFEB99"
 )
 ```
@@ -64,9 +64,9 @@ dict(
 ### Column {width=55%}
 <b> Partially delivered on Feature scope for "Build online home for recurring Tidy Tuesday-like Python event". </b>
 
-<a href="https://github.com/posit-dev/python-tidytuesday" target="_blank" style="color: inherit; text-decoration: none;"><i>PydyTuesday GitHub repository established</i></a> & linked in partnership with the original TidyTuesday GitHub repository in partnership with the DSLC.
+- <a href="https://github.com/posit-dev/python-tidytuesday" target="_blank" style="color: inherit; text-decoration: none;"><i>PydyTuesday GitHub repository established</i></a> & linked in partnership with the original TidyTuesday GitHub repository in partnership with the DSLC.
 
-As the KR team chose to partner with the DSLC to tack onto the existing TydyTuesday cycle, no new datasets/prompts have been added to the PydyTuesday repo.
+- As the KR team chose to partner with the DSLC to tack onto the existing TydyTuesday cycle, no new datasets/prompts have been added to the PydyTuesday repo.
 
 ## Row {height=160px .px-4}
 
@@ -75,7 +75,7 @@ As the KR team chose to partner with the DSLC to tack onto the existing TydyTues
 #| content: valuebox
 #| title: "PydyTuesday: How-To Youtube Playlist"
 dict(
-  value="6 Videos Produced",
+  value="6 Videos",
   color="#99CC99"
 )
 ```
@@ -85,9 +85,9 @@ dict(
 
 <span style="line-height: .9;">
 
-<a href="https://www.youtube.com/playlist?list=PL9HYL-VRX0oSDQjicFMLIIdcLv5NuvDp9" target="_blank" style="color: inherit; text-decoration: none;"><i>Initial set of six how-to Python resource videos delivered & uploaded to running YouTube playlist.</i></a>
+- <a href="https://www.youtube.com/playlist?list=PL9HYL-VRX0oSDQjicFMLIIdcLv5NuvDp9" target="_blank" style="color: inherit; text-decoration: none;"><i>Initial set of six how-to Python resource videos delivered & uploaded to running YouTube playlist.</i></a>
 
-More than 5,500 views across videos w/in the playlist.
+- More than 5,500 views across videos w/in the playlist.
 
 ## Row {height=160px .px-4}
 
@@ -104,16 +104,16 @@ dict(
 ### Column {width=55%}
 <b> Exceeded Feature scope for "Host three two week cycles of recurring Tidy Tuesday-like Python event". </b>
 
-In order to maintain a strong relation between PydyTuesday & the original PydyTuesday community event cycles, the KR execution team decided to roll out a weekly #PydyTuesday addendum along with each week's TydyTuesday dataset & prompt.  
+- In order to maintain a strong relation between PydyTuesday & the original PydyTuesday community event cycles, the KR execution team decided to roll out a weekly #PydyTuesday addendum along with each week's TydyTuesday dataset & prompt.  
 
 ## Row {height=160px .px-4}
 
 ### Column {width=20% .pe-5}
 ```{python}
 #| content: valuebox
-#| title: "Negotiate partnership with DSLC"
+#| title: "Established partnership with DSLC"
 dict(
-  value="Partnership Established",
+  value="Active",
   color="#99CC99"
 )
 ```
@@ -121,7 +121,6 @@ dict(
 ### Column {width=55%}
 <b> Delivered on Feature scope for "Negotiate partnership with DSLC". </b>
 
-Outreach attempts to Jon Harmon & the DSLC were successful- The DSLC welcomed PydyTuesday as a way to expand TidyTuesday to serve the Python user community, as well as to have PydyTuesday be an official part of TidyTuesday.
+- Outreach attempts to Jon Harmon & the DSLC were successful- The DSLC welcomed PydyTuesday as a way to expand TidyTuesday to serve the Python user community, as well as to have PydyTuesday be an official part of TidyTuesday.
 
-Jon & the DSLC has requested Posit's support in finding and curating datasets in the future as apart of our continued partnership.
-
+- Jon & the DSLC has requested Posit's support in finding and curating datasets in the future as apart of our continued partnership.
