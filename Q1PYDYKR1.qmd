@@ -9,9 +9,9 @@ format: dashboard
 ### Column {width=22% .pe-5}
 ```{python}
 #| content: valuebox
-#| title: "PydyTuesday: 200 Python user participants"
+#| title: "PydyTuesday Solution Submissions"
 dict(
-  value=13,
+  value=25,
   color= "#FF9999"
 )
 ```
@@ -22,13 +22,12 @@ dict(
 
 <span style="line-height: .9;">
 
-PydyTuesday GitHub Repo created & linked with official TydyTuesday Repo.
+- PydyTuesday GitHub Repo created & linked with official TydyTuesday Repo.
 
-PydyTuesday YouTube playlist established with 6 initial how-to video tutorials published.
+- PydyTuesday YouTube playlist established with six initial how-to video tutorials published.
 
-Assumed ownership of PydyTuesday Package- A Python port of the TidyTuesday Downloader (~500 package downloads in last month).
+- Assumed ownership of PydyTuesday Package: A Python port of the TidyTuesday Downloader (~500 package downloads in last month).
 
-? # of impressions generated from our LinkedIn Social Posts.
 </span>
 
 ## Row {height=190px .px-4}
@@ -36,36 +35,34 @@ Assumed ownership of PydyTuesday Package- A Python port of the TidyTuesday Downl
 ### Column {width=22% .pe-5}
 ```{python}
 #| content: valuebox
-#| title: "PydyTuesday Support Videos"
+#| title: "PydyTuesday LinkedIn Social Posts"
 dict(
-  value="YouTube Playlist of 6 initial how-to resource videos",
+  value="7 Teaser + Weekly LinkedIn Social Promotion Posts",
   color="#99CC99"
 )
 ```
 
 ### Column {width=60%}
-<b>Feature scope for "Make support videos for recurring Tidy Tuesday-like Python event".  Delivered on scope of Feature. </b>
+<b> Delivered on Feature scope for "Raise awareness of the recurring Tidy Tuesday-like Python event with potential participants". </b>
 
-<span style="line-height: .9;">
+Seven social posts published via Posit's LinkedIn page, generating 128,039 total impressions.
 
-<a href="https://www.youtube.com/playlist?list=PL9HYL-VRX0oSDQjicFMLIIdcLv5NuvDp9" target="_blank" style="color: inherit; text-decoration: none;"><i>Initial set of 6 how-to Python resource videos delivered & uploaded to running YouTube playlist.</i></a>
-
->5,500 views across videos w/in the playlist.
+Sponsored short-form video published by Python Influencer, generating 15.4K views across Instagram & TikTok.
 
 ## Row {height=160px .px-4}
 
 ### Column {width=20% .pe-5}
 ```{python}
 #| content: valuebox
-#| title: "PydyTuesday GitHub Repo"
+#| title: "python-tidytuesday GitHub Repo"
 dict(
-  value="python-tidytuesday",
+  value="28 stars for Repo",
   color="#FFEB99"
 )
 ```
 
 ### Column {width=55%}
-<b> Feature scope for "Build online home for recurring Tidy Tuesday-like Python event". Partially delivered on scope of Feature. </b>
+<b> Partially delivered on Feature scope for "Build online home for recurring Tidy Tuesday-like Python event". </b>
 
 <a href="https://github.com/posit-dev/python-tidytuesday" target="_blank" style="color: inherit; text-decoration: none;"><i>PydyTuesday GitHub repository established</i></a> & linked in partnership with the original TidyTuesday GitHub repository in partnership with the DSLC.
 
@@ -76,19 +73,21 @@ As the KR team chose to partner with the DSLC to tack onto the existing TydyTues
 ### Column {width=20% .pe-5}
 ```{python}
 #| content: valuebox
-#| title: "PydyTuesday: Raise Awareness"
+#| title: "PydyTuesday: How-To Youtube Playlist"
 dict(
-  value="Complete",
+  value="6 Videos Produced",
   color="#99CC99"
 )
 ```
 
 ### Column {width=55%}
-<b> Feature scope for "Raise awareness of the recurring Tidy Tuesday-like Python event with potential participants". Delivered on scope of Feature. </b>
+<b> Delivered on Feature scope for "Make support videos for recurring Tidy Tuesday-like Python event".  </b>
 
-6 social posts published via Posit's LinkedIn page, generating ? # of impressions.
+<span style="line-height: .9;">
 
-Sponsored short-form video published by Python Influencer.
+<a href="https://www.youtube.com/playlist?list=PL9HYL-VRX0oSDQjicFMLIIdcLv5NuvDp9" target="_blank" style="color: inherit; text-decoration: none;"><i>Initial set of six how-to Python resource videos delivered & uploaded to running YouTube playlist.</i></a>
+
+More than 5,500 views across videos w/in the playlist.
 
 ## Row {height=160px .px-4}
 
@@ -97,15 +96,15 @@ Sponsored short-form video published by Python Influencer.
 #| content: valuebox
 #| title: "PydyTuesday Event Cycles"
 dict(
-  value="6 & Counting",
+  value="7 & Counting",
   color="#99CC99"
 )
 ```
 
 ### Column {width=55%}
-<b> Feature scope for "Host three two week cycles of recurring Tidy Tuesday-like Python event". Exceeded scope of Feature. </b>
+<b> Exceeded Feature scope for "Host three two week cycles of recurring Tidy Tuesday-like Python event". </b>
 
-In order to maintain a strong relation between PydyTuesday & the original PydyTuesday community event cycles, the KR execution team decided to roll out a weekly Python "challenge" project along with each weeks TydyTuesday dataset & prompt.  
+In order to maintain a strong relation between PydyTuesday & the original PydyTuesday community event cycles, the KR execution team decided to roll out a weekly #PydyTuesday addendum along with each week's TydyTuesday dataset & prompt.  
 
 ## Row {height=160px .px-4}
 
@@ -120,7 +119,7 @@ dict(
 ```
 
 ### Column {width=55%}
-<b> Feature scope for "Negotiate partnership with DSLC". Delivered on scope of Feature.</b>
+<b> Delivered on Feature scope for "Negotiate partnership with DSLC". </b>
 
 Outreach attempts to Jon Harmon & the DSLC were successful- The DSLC welcomed PydyTuesday as a way to expand TidyTuesday to serve the Python user community, as well as to have PydyTuesday be an official part of TidyTuesday.
 
