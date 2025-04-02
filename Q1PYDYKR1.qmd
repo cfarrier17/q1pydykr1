@@ -56,7 +56,7 @@ dict(
 #| content: valuebox
 #| title: "python-tidytuesday GitHub Repo"
 dict(
-  value="28 Repo Stars",
+  value="28 Stars",
   color="#FFEB99"
 )
 ```
